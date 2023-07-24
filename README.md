@@ -24,7 +24,8 @@
 <p align="center">
 	<a href="https://www.blender.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/></a>
 	<a href="https://getcomposer.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="Composer" width="40" height="40"/></a>
-	<a href="https://filezilla-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" alt="Composer" width="40" height="40"/></a>
+	<a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="Composer" width="40" height="40"/></a>
+	<a href="https://filezilla-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" alt="FileZilla" width="40" height="40"/></a>
 </p>
 
 ---
