@@ -1,7 +1,7 @@
 <h1>What's up? I'm Satch, but my dev name is Virus5600.</h1>
 <h3>I do web dev and minecraft mods/add-ons while trying to learn game development and finish college as well.</h3>
 
-- 🔭 I’m currently working on **[Defensive Measures Mod](https://github.com/Virus5600/Defensive-Measures)**, **[Defensive Measures Add-On](https://github.com/Virus5600/Defensive-Measures-Add-On)**, and **[Generators](https://github.com/Virus5600/Generators)**
+- 🔭 I’m currently working on **[Defensive Measures Mod (Java)](https://github.com/Virus5600/Defensive-Measures-Mod)**, **[Defensive Measures Add-On (Bedrock)](https://github.com/Virus5600/Defensive-Measures-Add-On)**, and **[Generators](https://github.com/Virus5600/Generators)**
 - 📫 You can contact me via my **[Gmail](mailto:satchi5600@gmail.com)**
 
 ---
